@@ -1,7 +1,7 @@
 # Message_Queue
 Message_Queue like kafka machine coding
 
-Problem Statement 
+**Problem Statement **
 
 We have to design a message queue supporting publisher-subscriber model. It should support following operations:
 
